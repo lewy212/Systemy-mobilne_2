@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">SMLewy</string>
+    <string name="button_true">Prawda</string>
+    <string name="button_false">Fałsz</string>
+    <string name="button_next">Następne</string>
+    <string name="button_prompt">Podpowiedź</string>
+    <string name="button_odpowiedz">Pokaż odpowiedź</string>
+    <string name="q_activity">Activity jest jednym z komponentów aplikacji android</string>
+    <string name="q_version">Android 8 jest najnowszą wersją systemu Android</string>
+    <string name="q_listener">Aplikacje dla systemu Android są stereowane zdarzeniowo</string>
+    <string name="q_resources">Zasoby aplikacji dla systemu Android definiuje się w plikach .xml</string>
+    <string name="q_find_resources">Do zasobów aplikacji dla systemu Android odnosimy się po nazwach</string>
+    <string name="q_chrzest">Chrzest Polski był w 966 roku</string>
+    <string name="q_messi">Lionel Messi jest rekordzistą pod względem liczby strzelonych bramek w jednym sezonie w hiszpańskiej La Liga.</string>
+    <string name="q_ronaldo">Cristiano Ronaldo grał w Fc Barcelonie</string>
+    <string name="correct_answer">Odpowiedź prawidłowa.</string>
+    <string name="incorrect_answer">Odpowiedź nieprawidłowa.</string>
+    <string name="answer_was_shown">Odpowiedź była już wyświetlona!</string>
+</resources>
